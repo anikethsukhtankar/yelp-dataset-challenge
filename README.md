@@ -20,18 +20,18 @@ The project folder contains:
 ```
 PRE-REQUISITES
 --------------
-```
+
 The following need to be installed to run the project:
  - Python
  - Jupyter Notebook
- ```
+
 
 INSTRUCTIONS FOR EXECUTION 
 ----------------------------
 
 Steps to run .ipynb file
 -------------------------
-```
+
 1. Unzip the folder in the directory in which you wish to run the script.
 2. From the terminal, cd to the directory in which the above files are extracted
 3. Run 'jupyter notebook Ratings_Prediction_Final.ipynb'
@@ -47,10 +47,10 @@ Final results from all 3 models(LDA+Sentiment) - Lines 52,53,56
 7. To execute it from the beginning, click on the menu, Cell -> Run All.
 Note: The execution takes a little over 30 minutes to run all the models and display the results.
 8. To close the program, click on the menu, File -> Close and Halt. 
-```
+
 Steps to run .py file
 ----------------------
-```
+
 1. Unzip the folder in the directory in which you wish to run the script.
 2. From the terminal, cd to the directory in which the above files are extracted.
 3. Run 'python Ratings_Prediction_Final.py'
@@ -58,7 +58,7 @@ Steps to run .py file
 5. When all dependencies are resolved, script will start running. 
 6. Results and graphs can be viewed on the terminal.
 Note: The execution takes a little over an hour to run all the models and display the results.
-```
+
 
 
 
